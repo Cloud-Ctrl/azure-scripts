@@ -8,14 +8,13 @@
         "Microsoft.Billing/*/read",
         "Microsoft.Commerce/*/read",
         "Microsoft.Consumption/*/read",
+        "Microsoft.Insights/*/Read",
         "Microsoft.Advisor/recommendations/read",
         "Microsoft.Web/kubeEnvironments/read",
         "Microsoft.Kubernetes/connectedClusters/read",
         "Microsoft.Kubernetes/RegisteredSubscriptions/read",
         "Microsoft.Resources/subscriptions/resourceGroups/read",
-        "Microsoft.Advisor/recommendations/read",
-        "Microsoft.Insights/MetricDefinitions/Read",
-        "Microsoft.Insights/Metrics/Read"
+        "Microsoft.Advisor/recommendations/read"        
       ],
       "metadata": {
         "description": "Array of actions for the roleDefinition"
