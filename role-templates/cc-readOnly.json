@@ -13,7 +13,9 @@
         "Microsoft.Kubernetes/connectedClusters/read",
         "Microsoft.Kubernetes/RegisteredSubscriptions/read",
         "Microsoft.Resources/subscriptions/resourceGroups/read",
-        "Microsoft.Advisor/recommendations/read"
+        "Microsoft.Advisor/recommendations/read",
+        "Microsoft.Insights/MetricDefinitions/Read",
+        "Microsoft.Insights/Metrics/Read"
       ],
       "metadata": {
         "description": "Array of actions for the roleDefinition"
