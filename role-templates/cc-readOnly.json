@@ -9,7 +9,7 @@
         "Microsoft.Commerce/*/read",
         "Microsoft.Consumption/*/read",
         "Microsoft.Insights/*/read",
-        "MiMicrosoft.ResourceGraph/*/read",
+        "Microsoft.ResourceGraph/*/read",
         "Microsoft.Advisor/recommendations/read",
         "Microsoft.Web/kubeEnvironments/read",
         "Microsoft.Kubernetes/connectedClusters/read",
