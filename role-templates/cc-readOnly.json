@@ -68,7 +68,7 @@
             "notActions": "[parameters('notActions')]"
           }
         ],
-        "assignableScopes": "[{{scopes}}]"
+        "assignableScopes": "[parameters('scopes')]"
       }
     }
   ]
