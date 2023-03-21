@@ -1,0 +1,20 @@
+{
+  "Name": "Cloud Ctrl Read Only Role",
+  "Description": "Subscription Level Deployment of a Role Definition",
+  "Actions": [
+        "Microsoft.Billing/*/read",
+        "Microsoft.Commerce/*/read",
+        "Microsoft.Consumption/*/read",
+        "Microsoft.Insights/*/read",
+        "MiMicrosoft.ResourceGraph/*/read",
+        "Microsoft.Advisor/recommendations/read",
+        "Microsoft.Web/kubeEnvironments/read",
+        "Microsoft.Kubernetes/connectedClusters/read",
+        "Microsoft.Kubernetes/RegisteredSubscriptions/read",
+        "Microsoft.Resources/subscriptions/resourceGroups/read"      
+      ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": []
+}
